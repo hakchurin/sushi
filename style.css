@@ -1,0 +1,76 @@
+body {
+  color: #47a3da; }
+
+header .header {
+  text-align: center;
+  padding-right: 90px;
+  padding-top: 90px;
+  font-size: 50px; }
+header .icon {
+  padding-right: 200px;
+  text-align: center;
+  font-size: 80px; }
+header .button {
+  padding-bottom: 190px;
+  font-size: 150px;
+  margin-top: 70px; }
+header h1 {
+  display: block;
+  padding-left: 120px;
+  text-align: center;
+  font-size: 90px;
+  width: 70%;
+  margin-top: 20px; }
+
+section .images {
+  text-align: center;
+  padding-left: 560px;
+  position: absolute;
+  margin-top: 90px;
+  font-size: 180px; }
+section .block {
+  text-align: center; }
+section h1 {
+  text-align: center;
+  padding-right: 90px;
+  font-size: 50px; }
+section p {
+  text-align: center;
+  padding-right: 90px;
+  font-size: 50px; }
+
+article .images {
+  text-align: center;
+  padding-left: 560px;
+  position: absolute;
+  margin-top: 90px;
+  font-size: 180px; }
+article .block {
+  text-align: center; }
+article h1 {
+  text-align: center;
+  padding-right: 90px;
+  font-size: 50px; }
+article p {
+  text-align: center;
+  padding-right: 90px;
+  font-size: 50px; }
+
+aside .images {
+  text-align: center;
+  padding-left: 560px;
+  position: absolute;
+  margin-top: 90px;
+  font-size: 180px; }
+aside h1 {
+  text-align: center;
+  padding-right: 90px;
+  font-size: 50px; }
+aside .block {
+  text-align: center; }
+aside p {
+  text-align: center;
+  padding-right: 90px;
+  font-size: 50px; }
+
+/*# sourceMappingURL=style.css.map */
